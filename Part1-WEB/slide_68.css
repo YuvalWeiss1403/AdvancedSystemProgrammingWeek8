@@ -1,0 +1,15 @@
+button {
+    background-color:pink;
+    color:#000000;
+    font-size: 30pt;
+    margin: 10px;
+}
+
+#danger-btn {
+    background-color: #ff00e6;
+    border-radius: 10px;
+}
+
+.green-bg {
+    background-color: #d956ab;
+}
